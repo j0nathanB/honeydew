@@ -1,0 +1,26 @@
+{
+  "name": "honeydew",
+  "version": "1.0.0",
+  "description": "To-do list for grocery shopping",
+  "main": "server/index.js",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j0nathanB/honeydew.git"
+  },
+  "keywords": [
+    "to-do"
+  ],
+  "author": "Jonathan Bradshaw",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/j0nathanB/honeydew/issues"
+  },
+  "homepage": "https:/la-lista-de-compras.herokuapp.com"
+}
